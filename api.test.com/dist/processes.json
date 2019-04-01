@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "index",
+      "script":"/www/node/api.test.com/dist",
+      "autorestart": true
+    }
+  ]
+}
+
