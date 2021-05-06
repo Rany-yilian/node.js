@@ -37,7 +37,7 @@
     "rongcloud-sdk": "git+https://github.com/rongcloud/server-sdk-nodejs.git",
     "semver": "^5.1.0",
     "sequelize": "^3.8.0",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "xss": "^0.2.13"
   },
   "devDependencies": {
