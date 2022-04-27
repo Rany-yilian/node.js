@@ -41,7 +41,7 @@
     "xss": "^0.2.13"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.5.2",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-copy": "^0.8.1",
     "grunt-contrib-watch": "^0.6.1",
